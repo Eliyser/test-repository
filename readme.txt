@@ -1,0 +1,1 @@
+测试Spring Data JPA的repository接口
